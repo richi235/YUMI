@@ -1,18 +1,19 @@
 # YUMI
 Your universal Multiboot Installer
 
-YUMI is a "create-boot-usb-sticks" for windows, which supports
+ * YUMI is a "create-boot-usb-sticks" for windows, which supports
 dozens of linux distros and automatically downloads the isos for you.
-After YUMI has put an OS on it, the usb stick is still usable to store files
+
+ * After YUMI has put an OS on it, the usb stick is still usable to store files
 and everything else.
 
-This is why I like this software and created this repo. 
-There is a windows and a linux version. It turns out the Windows version
-consists of .nsh files which belong to the "Nullsoft Scriptable Installer System"
+ * This is why I like this software and created this repo. 
+ * There is a windows and a linux version. 
 
-Which is (I think) absolutely horrible and strange syntax.
-The linux version (not part of this repo) is written in gambas a 
-visual-basic-for-linux language :p
+ * It turns out the Windows version consists of .nsh files which belong to the "Nullsoft Scriptable Installer System". 
+   * Which is (I think) absolutely horrible and strange syntax.
+
+ * The linux version (not part of this repo) is written in gambas a visual-basic-for-linux language :p
 
 # Notes
 
